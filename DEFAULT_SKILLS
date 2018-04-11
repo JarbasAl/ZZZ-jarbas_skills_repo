@@ -1,0 +1,30 @@
+# core
+mycroft-configuration
+mycroft-stop
+mycroft-naptime
+mycroft-playback-control
+mycroft-volume
+
+# common
+mycroft-fallback-duck-duck-go
+fallback-aiml
+fallback-wolfram-alpha
+fallback-unknown
+mycroft-joke
+mycroft-wiki
+mycroft-alarm
+mycroft-audio-record
+mycroft-date-time
+mycroft-hello-world
+mycroft-ip
+mycroft-personal
+mycroft-reminder
+mycroft-singing
+mycroft-spelling
+mycroft-stock
+mycroft-timer
+mycroft-weather
+mycroft-version-checker
+skill-laugh
+skill_easter_eggs
+mycroft-skill-diagnostics

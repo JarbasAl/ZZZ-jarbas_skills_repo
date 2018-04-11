@@ -1,0 +1,8 @@
+mycroft-pairing ,
+mycroft-configuration ,
+mycroft-installer ,
+mycroft-speak ,
+mycroft-stop ,
+mycroft-naptime ,
+mycroft-playback-control ,
+mycroft-volume ,
