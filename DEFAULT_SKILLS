@@ -1,17 +1,10 @@
 # core
-mycroft-configuration
 mycroft-stop
 mycroft-naptime
 mycroft-playback-control
 mycroft-volume
 
 # common
-mycroft-fallback-duck-duck-go
-fallback-aiml
-fallback-wolfram-alpha
-fallback-unknown
-mycroft-joke
-mycroft-wiki
 mycroft-alarm
 mycroft-audio-record
 mycroft-date-time

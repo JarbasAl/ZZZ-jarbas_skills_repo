@@ -1,0 +1,2 @@
+face-recognition , https://github.com/JarbasAl/skill-face-recognition
+camera , https://github.com/JarbasAl/skill-camera

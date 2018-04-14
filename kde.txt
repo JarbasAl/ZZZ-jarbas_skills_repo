@@ -4,3 +4,5 @@ plasma-user-control-skill ,
 plasma-mycroftplasmoid-control ,
 skill-autogui ,
 mycroft-desktop-launcher ,
+face-recognition , https://github.com/JarbasAl/skill-face-recognition
+camera , https://github.com/JarbasAl/skill-camera

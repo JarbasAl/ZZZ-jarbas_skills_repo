@@ -1,9 +1,3 @@
-mycroft-fallback-duck-duck-go ,
-fallback-aiml ,
-fallback-wolfram-alpha ,
-fallback-unknown ,
-mycroft-joke ,
-mycroft-wiki ,
 mycroft-alarm ,
 mycroft-audio-record ,
 mycroft-date-time ,
@@ -21,3 +15,34 @@ skill-laugh , https://github.com/JarbasAl/skill-laugh
 skill_easter_eggs ,
 mycroft-skill-diagnostics ,
 skill-enclosure-ctrl , https://github.com/JarbasAl/skill-enclosure-ctrl
+location-tracker , https://github.com/JarbasAl/skill-location-tracker
+internet-radio , https://github.com/JarbasAl/skill-internet-radio
+youtube , https://github.com/JarbasAl/skill-youtube-play
+bandcamp , https://github.com/JarbasAl/skill-bandcamp
+unified-news , https://github.com/JarbasAl/skill-unified-news
+universal-duck-duck-go-fallback , https://github.com/JarbasAl/fallback-duckduckgo-universal
+universal-wiki , https://github.com/JarbasAl/skill-wiki-universal
+universal-rivescript-fallback , https://github.com/JarbasAl/fallback-rivescript-universal
+universal-unknown-fallback , https://github.com/JarbasAl/fallback-unknown-universal
+universal-wolfram-alpha-fallback , https://github.com/JarbasAl/fallback-wolfram-alpha-universal
+universal-joke , https://github.com/JarbasAl/skill-joke-universal
+universal-persona-fallback , https://github.com/JarbasAl/skill-fallback-persona-universal
+universal-aiml-fallback , https://github.com/JarbasAl/fallback-aiml-universal
+mashape , https://github.com/JarbasAl/skill-mashape
+nutrients , https://github.com/JarbasAl/skill-nutrients
+countries , https://github.com/JarbasAl/skill-countries
+jarbas-quotes , https://github.com/JarbasAl/skill-quotes
+numbers , https://github.com/JarbasAl/skill-numbers
+parrot , https://github.com/JarbasAl/skill-parrot
+metal-archives , https://github.com/JarbasAl/skill-metal-archives
+stephen-hawking , https://github.com/JarbasAl/skill-stephen-hawking
+moon-game , https://github.com/JarbasAl/skill-moon-game
+selenium-cleverbot , https://github.com/JarbasAl/fallback-selenium-cleverbot
+browser , https://github.com/JarbasAl/skill-browser
+node-red-fallback , https://github.com/JarbasAl/fallback-node-red
+konami-code , https://github.com/JarbasAl/skill-konami-code
+wiki-how , https://github.com/JarbasAl/skill-how-to
+cryptonator , https://github.com/JarbasAl/cryptocoin_skill
+names , https://github.com/JarbasAl/skill-names
+pickup-lines , https://github.com/JarbasAl/skill-pick-up-lines
+
